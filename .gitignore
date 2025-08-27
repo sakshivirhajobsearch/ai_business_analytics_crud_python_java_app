@@ -1,0 +1,102 @@
+# ================================
+# OS-specific
+# ================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ================================
+# IDEs and Editors
+# ================================
+.vscode/
+.idea/
+*.iml
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.db
+*.sqlite3
+*.log
+
+# Virtual environments
+.env
+.env.*
+venv/
+venv*/ 
+ENV/
+env/
+ai-env/
+
+# ================================
+# Java - Maven
+# ================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ================================
+# Logs
+# ================================
+*.log
+logs/
+log/
+analytics.log
+logs/analytics.log
+
+# ================================
+# Node.js
+# ================================
+node_modules/
+
+# ================================
+# Jupyter Notebook
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# Data files
+# ================================
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xml
+*.xlsx
+
+# ================================
+# Backup or temp files
+# ================================
+*.bak
+*.tmp
+*.swp
+*.swo
+*.~*
+*~
+
+# ================================
+# Analytics-specific ignores
+# ================================
+# Custom analytics cache/config
+.analytics/
+.analytics_cache/
+analytics_test_output/
+
+# Ignore secrets/config
+.env.analytics
+config/analytics_keys.json
+
+# Ignore Python environment inside analytics-python
+analytics-python/ai-env/
