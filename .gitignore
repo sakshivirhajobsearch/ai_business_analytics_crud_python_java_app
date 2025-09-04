@@ -73,7 +73,6 @@ node_modules/
 *.tsv
 *.parquet
 *.json
-*.xml
 *.xlsx
 
 # ================================
