@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ai.business.analytics</groupId>
-    <artifactId>ai-business-analytics</artifactId>
+    <artifactId>ai_business_analytics_curd_python_java_app</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>AI Business Analytics Backend</name>
