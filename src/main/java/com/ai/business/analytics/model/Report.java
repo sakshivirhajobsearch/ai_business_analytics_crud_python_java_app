@@ -1,4 +1,4 @@
-package ai.business.analytics.model;
+package com.ai.business.analytics.model;
 
 public class Report {
 	

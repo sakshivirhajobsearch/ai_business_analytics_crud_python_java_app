@@ -1,4 +1,4 @@
-package ai.business.analytics;
+package com.ai.business.analytics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

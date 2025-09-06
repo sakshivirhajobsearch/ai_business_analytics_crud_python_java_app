@@ -1,7 +1,8 @@
-package ai.business.analytics.service;
+package com.ai.business.analytics.service;
 
-import ai.business.analytics.model.Report;
 import java.util.List;
+
+import com.ai.business.analytics.model.Report;
 
 public interface ReportService {
 	Report createReport(Report report);

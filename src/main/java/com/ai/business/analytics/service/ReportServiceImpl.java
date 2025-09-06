@@ -1,7 +1,8 @@
-package ai.business.analytics.service;
+package com.ai.business.analytics.service;
 
-import ai.business.analytics.model.Report;
 import org.springframework.stereotype.Service;
+
+import com.ai.business.analytics.model.Report;
 
 import java.util.ArrayList;
 import java.util.HashMap;
